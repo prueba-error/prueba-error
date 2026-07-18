@@ -9,9 +9,9 @@ I'm currently finishing my Associate's degree in Software Development, and I am 
 **Trial and error is how I learn.**
 
 <div align="center">
-    <figure>
-      <img src="https://github-stats-extended.vercel.app/api?username=prueba-error&show_icons=true" alt="GitHub Stats for @prueba-error" />
-    </figure>
+<figure>
+<img src="https://github-stats-extended.vercel.app/api?username=prueba-error&show_icons=true" alt="GitHub Stats for @prueba-error" />
+</figure>
 </div>
 
 ## Some of my stuff
@@ -64,7 +64,7 @@ I like learning new technologies and concepts along the development process, and
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white" alt="CSS" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
+<br>
 <img src="https://img.shields.io/badge/Powershell / Bash-666666?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjRkZGIiBkPSJNMTAuNiAxMi40TDAgMjNsNDkgNDEtNDkgNDEgMTAuNiAxMC42TDcxIDY0IDEwLjYgMTIuNHptNDMuNSA5Ni4xaDYzLjl2LTE1SDU0LjF2MTV6Ii8+PC9zdmc+" alt="Powershell/Bash" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -87,8 +87,8 @@ When I'm not thinking about software, I enjoy:
 * Just goofing around.
 
 <div align="center">
-    <figure>
-      <img src="./img/sunset.png" alt="Sunset photo taken by myself" width="60%">
-      <figcaption>I also like taking pictures :-></figcaption>
-    </figure>
+<figure>
+<img src="./img/sunset.png" alt="Sunset photo taken by myself" width="60%">
+<p><em>I also like taking pictures :-></em></p>
+</figure>
 </div>
