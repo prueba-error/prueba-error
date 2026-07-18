@@ -1,5 +1,7 @@
 # Diego Rafael Guaraz (`@prueba-error`)
 
+## About Me
+
 I'm a software builder based in Mar del Plata, Argentina 🌊
 
 I create tools to solve my own workflow friction and learn how systems work under the hood, and ship solutions for client's problems with the tools the task demands.
@@ -75,7 +77,7 @@ I like learning new technologies and concepts along the development process, and
 
 ---
 
-### Touching Grass
+## Touching Grass
 
 When I'm not thinking about software, I enjoy:
 
