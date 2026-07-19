@@ -36,12 +36,12 @@ A couple of web projects I've built, including a React landing page for a local 
 * **[taura-birra-react](https://github.com/prueba-error/taura-birra-react)**: React landing page for a craft brewery in La Plata.
     - Commission project. Focused on matching client specifications and styling modular component layouts.
     - [Visit the site](https://taura-birra.vercel.app/) 
-
 * **[eventos-dsw](https://github.com/prueba-error/eventos-dsw)**: Event billboard web app for Mar del Plata.
     - College group project. Designed database routing and integrated local community event data.
 
 ### Automation & Micro-utilities
 Small scripts and utilities to automate repetitive tasks and improve productivity.
+
 * **[autohotkey](https://github.com/prueba-error/autohotkey)**: Personal AHK v2.0 script collection.
     - Automating repetitive OS actions and key-remappings to speed up my desktop.
 * **[one-click-logout](https://github.com/prueba-error/one-click-logout)**: Chrome extension to instantly logout from pre-defined websites. I have yet to publish this one.
